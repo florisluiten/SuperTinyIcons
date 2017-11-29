@@ -16,6 +16,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 ## What's Available so far?
 
 <table>
+<colgroup>
+  <col width="16%">
+  <col width="16%">
+  <col width="16%">
+  <col width="16%">
+  <col width="16%">
+  <col width="16%">
+</colgroup>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg" width="125" title="Hacker News" /><br><b>Hacker News</b><br>228 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="125" title="flickr" /><br><b>flickr</b><br>252 Bytes</td>
